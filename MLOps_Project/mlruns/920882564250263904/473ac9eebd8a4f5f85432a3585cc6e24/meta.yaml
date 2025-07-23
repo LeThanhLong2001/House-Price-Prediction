@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mrjong/Documents/VSC_Project/MLOps_Project/mlruns/920882564250263904/473ac9eebd8a4f5f85432a3585cc6e24/artifacts
+end_time: 1753158904986
+entry_point_name: ''
+experiment_id: '920882564250263904'
+lifecycle_stage: active
+run_id: 473ac9eebd8a4f5f85432a3585cc6e24
+run_name: gifted-calf-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753158900789
+status: 3
+tags: []
+user_id: mrjong

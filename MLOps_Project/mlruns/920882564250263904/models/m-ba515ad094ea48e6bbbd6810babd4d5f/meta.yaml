@@ -1,0 +1,10 @@
+artifact_location: file:///home/mrjong/Documents/VSC_Project/MLOps_Project/mlruns/920882564250263904/models/m-ba515ad094ea48e6bbbd6810babd4d5f/artifacts
+creation_timestamp: 1753158902632
+experiment_id: '920882564250263904'
+last_updated_timestamp: 1753158904982
+model_id: m-ba515ad094ea48e6bbbd6810babd4d5f
+model_type: null
+name: random_forest_model
+source_run_id: 473ac9eebd8a4f5f85432a3585cc6e24
+status: 2
+status_message: null
